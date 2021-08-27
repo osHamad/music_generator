@@ -1,1 +1,1 @@
-# music_generator
+# Convertnig voice audio to an instrament
